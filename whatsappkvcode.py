@@ -5,11 +5,8 @@ import datetime as datetime
 import time
 from datetime import date, timedelta
 
-MobileNumber = ["+919444360389","+919566172782","+919841559443"]
+MobileNumber = ["+xxxxxxxxxx","+xxxxxxxxx1","+x2"]
 
-"""
-MobileNumber = "+916385590591","+917358404240","+917812862977","+918667375488","+918695383859","+919047736313","+919361936945","+919600360822","+919629235980","+919677073848","+919842043210","+919842043210","+919843016094","+919843016097","+919952884225","+919994668705"]
-"""
 
 def sendwhatimmkvmsg(nowmobilenumber1):
     WIDTH, HEIGHT = pg.size()
